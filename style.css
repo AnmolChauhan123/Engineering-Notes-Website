@@ -104,7 +104,8 @@ p {
   margin-top: 70px;
 }
 .btn:hover {
-  background: #29a423;
+  background: #fff;
+  color: #000;
   transform: scaleX(2);
   transform: scaley(1.1);
   box-shadow: 2px 2px 20px rgb(49, 49, 49);
